@@ -1,0 +1,10 @@
+﻿cl : 命令行 warning D9028: 最小重新生成失败，正在转换为标准生成
+  GloableVariable.cpp
+f:\3dsloader\GloableVariable.h(67): warning C4838: 从“double”转换到“const float”需要收缩转换
+f:\3dsloader\GloableVariable.h(69): warning C4838: 从“double”转换到“const float”需要收缩转换
+f:\3dsloader\GloableVariable.h(77): warning C4838: 从“double”转换到“const float”需要收缩转换
+GloableVariable.cpp(21): warning C4838: 从“double”转换到“float”需要收缩转换
+GloableVariable.cpp(31): warning C4838: 从“double”转换到“float”需要收缩转换
+GloableVariable.cpp(35): warning C4838: 从“double”转换到“float”需要收缩转换
+  3DSLoader.vcxproj -> F:\3DSLoader\.\Debug\3DSLoader.exe
+  3DSLoader.vcxproj -> .\Debug\3DSLoader.pdb (Full PDB)
